@@ -25,6 +25,7 @@ I have laid out script templates for (1) and (2), and have made a simple game of
 
 # Bonus exercises
 If time permits, we will practice:
+
 5) performing code reviews
 6) testing other's code
 7) using Github Issues to identify and resolve bugs, feature enhancements, etc.
