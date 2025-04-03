@@ -18,10 +18,10 @@ Bonus: Improve the strategy to get 21s more often
 
 I have laid out script templates for (1) and (2), and have made a simple game of 21s. Use the process of writing these scripts to practice:
 
-1) making informative commits
-2) working on branches
-3) pushing branches to the Github repository
-4) resolving merge conflicts (local conflicts and conflicts on the remote repo)
+* making informative commits
+* working on branches
+* pushing branches to the Github repository
+* resolving merge conflicts (local conflicts and conflicts on the remote repo)
 
 # Bonus exercises
 If time permits, we will practice:
