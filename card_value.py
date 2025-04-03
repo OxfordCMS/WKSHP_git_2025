@@ -2,6 +2,16 @@ def value_of_card(card):
     '''
     This function converts cards to integers and returns integers so they can be added
     Face cards are interpreted as 10
-    Ace cards can be 1 or 11, which ever gets closer to 21
-    Bonus: put checks in place that card from a 52-card deck.
     '''
+
+    # dictionary of cards and values
+    # aces handled outside of function
+    deck = {} 
+
+    # make sure card is valid member of a 52-card deck
+    assert card in deck.keys(), "Not a valid card"
+
+    # extract card value from dictionary
+    card_value = deck[card]
+
+    return card_value
